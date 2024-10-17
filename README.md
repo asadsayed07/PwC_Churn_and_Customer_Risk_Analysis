@@ -1,7 +1,7 @@
 # PwC - Churn and Customer Risk Analysis
 
 <p align="center">
-  <img src="PWC THUMBNAIL 1.png" height = 350 width= 600 >
+  <img src="PWC THUMBNAIL 2.png" height = 350 width= 600 >
 
 ## PREVIEW 
 ### Churn Analysis
